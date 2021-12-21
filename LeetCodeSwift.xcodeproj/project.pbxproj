@@ -13,6 +13,7 @@
 		040FBB29277163BB00D92084 /* PalindromeNumber_009.swift in Sources */ = {isa = PBXBuildFile; fileRef = 040FBB28277163BB00D92084 /* PalindromeNumber_009.swift */; };
 		040FBB2B2771640E00D92084 /* Remove_Duplicates_Sorted_Array_026.swift in Sources */ = {isa = PBXBuildFile; fileRef = 040FBB2A2771640E00D92084 /* Remove_Duplicates_Sorted_Array_026.swift */; };
 		040FBB2D27716CB600D92084 /* Remove_Element_027.swift in Sources */ = {isa = PBXBuildFile; fileRef = 040FBB2C27716CB600D92084 /* Remove_Element_027.swift */; };
+		040FBB2F27716F3300D92084 /* SearchInsert_035.swift in Sources */ = {isa = PBXBuildFile; fileRef = 040FBB2E27716F3300D92084 /* SearchInsert_035.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -35,6 +36,7 @@
 		040FBB28277163BB00D92084 /* PalindromeNumber_009.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PalindromeNumber_009.swift; sourceTree = "<group>"; };
 		040FBB2A2771640E00D92084 /* Remove_Duplicates_Sorted_Array_026.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Remove_Duplicates_Sorted_Array_026.swift; sourceTree = "<group>"; };
 		040FBB2C27716CB600D92084 /* Remove_Element_027.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Remove_Element_027.swift; sourceTree = "<group>"; };
+		040FBB2E27716F3300D92084 /* SearchInsert_035.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchInsert_035.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 				040FBB28277163BB00D92084 /* PalindromeNumber_009.swift */,
 				040FBB2A2771640E00D92084 /* Remove_Duplicates_Sorted_Array_026.swift */,
 				040FBB2C27716CB600D92084 /* Remove_Element_027.swift */,
+				040FBB2E27716F3300D92084 /* SearchInsert_035.swift */,
 			);
 			path = Easy;
 			sourceTree = "<group>";
@@ -149,6 +152,7 @@
 				040FBB2B2771640E00D92084 /* Remove_Duplicates_Sorted_Array_026.swift in Sources */,
 				040FBB1D2771620900D92084 /* main.swift in Sources */,
 				040FBB272771633B00D92084 /* ReverseInteger_007.swift in Sources */,
+				040FBB2F27716F3300D92084 /* SearchInsert_035.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

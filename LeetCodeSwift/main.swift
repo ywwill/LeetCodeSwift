@@ -1,8 +1,6 @@
 import Foundation
 
-var nums = [1, 3, 3, 4]
+var nums = [1, 3, 5, 6, 7]
 
-print(removeElement(&nums, 3))
-
-print(nums)
+print(searchInsert(nums, 5))
 
