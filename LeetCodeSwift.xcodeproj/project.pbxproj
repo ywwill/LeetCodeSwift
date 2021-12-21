@@ -8,6 +8,10 @@
 
 /* Begin PBXBuildFile section */
 		040FBB1D2771620900D92084 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 040FBB1C2771620900D92084 /* main.swift */; };
+		040FBB252771622500D92084 /* TwoSum_002.swift in Sources */ = {isa = PBXBuildFile; fileRef = 040FBB242771622500D92084 /* TwoSum_002.swift */; };
+		040FBB272771633B00D92084 /* ReverseInteger_007.swift in Sources */ = {isa = PBXBuildFile; fileRef = 040FBB262771633B00D92084 /* ReverseInteger_007.swift */; };
+		040FBB29277163BB00D92084 /* PalindromeNumber_009.swift in Sources */ = {isa = PBXBuildFile; fileRef = 040FBB28277163BB00D92084 /* PalindromeNumber_009.swift */; };
+		040FBB2B2771640E00D92084 /* Remove_Duplicates_Sorted_Array_026.swift in Sources */ = {isa = PBXBuildFile; fileRef = 040FBB2A2771640E00D92084 /* Remove_Duplicates_Sorted_Array_026.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +29,10 @@
 /* Begin PBXFileReference section */
 		040FBB192771620900D92084 /* LeetCodeSwift */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LeetCodeSwift; sourceTree = BUILT_PRODUCTS_DIR; };
 		040FBB1C2771620900D92084 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		040FBB242771622500D92084 /* TwoSum_002.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TwoSum_002.swift; sourceTree = "<group>"; };
+		040FBB262771633B00D92084 /* ReverseInteger_007.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReverseInteger_007.swift; sourceTree = "<group>"; };
+		040FBB28277163BB00D92084 /* PalindromeNumber_009.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PalindromeNumber_009.swift; sourceTree = "<group>"; };
+		040FBB2A2771640E00D92084 /* Remove_Duplicates_Sorted_Array_026.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Remove_Duplicates_Sorted_Array_026.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,8 +66,20 @@
 			isa = PBXGroup;
 			children = (
 				040FBB1C2771620900D92084 /* main.swift */,
+				040FBB232771621000D92084 /* Easy */,
 			);
 			path = LeetCodeSwift;
+			sourceTree = "<group>";
+		};
+		040FBB232771621000D92084 /* Easy */ = {
+			isa = PBXGroup;
+			children = (
+				040FBB242771622500D92084 /* TwoSum_002.swift */,
+				040FBB262771633B00D92084 /* ReverseInteger_007.swift */,
+				040FBB28277163BB00D92084 /* PalindromeNumber_009.swift */,
+				040FBB2A2771640E00D92084 /* Remove_Duplicates_Sorted_Array_026.swift */,
+			);
+			path = Easy;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -120,7 +140,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				040FBB252771622500D92084 /* TwoSum_002.swift in Sources */,
+				040FBB29277163BB00D92084 /* PalindromeNumber_009.swift in Sources */,
+				040FBB2B2771640E00D92084 /* Remove_Duplicates_Sorted_Array_026.swift in Sources */,
 				040FBB1D2771620900D92084 /* main.swift in Sources */,
+				040FBB272771633B00D92084 /* ReverseInteger_007.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

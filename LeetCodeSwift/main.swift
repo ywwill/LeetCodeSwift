@@ -1,11 +1,5 @@
-//
-//  main.swift
-//  LeetCodeSwift
-//
-//  Created by edy on 2021/12/21.
-//
-
 import Foundation
 
-print("Hello, World!")
+var nums = [1, 2, 2, 3, 4, 4]
+print(removeDuplicates(&nums))
 
