@@ -1,6 +1,6 @@
 import Foundation
 
-var nums = [1, 3, 5, 6, 7]
+var nums = [9,9]
 
-print(searchInsert(nums, 5))
+print(plusOne(nums))
 
