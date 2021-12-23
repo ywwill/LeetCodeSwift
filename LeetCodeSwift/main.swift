@@ -1,6 +1,7 @@
 import Foundation
 
-var nums = [9,9]
+let a = "11"
+let b = "10"
 
-print(plusOne(nums))
+print(addBinary(a, b))
 
