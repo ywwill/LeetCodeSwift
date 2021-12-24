@@ -8,11 +8,11 @@ func addBinary(_ a: String, _ b: String) -> String {
     var bStr = b
     
     if aStr == "" {
-        return b
+        return bStr
     }
 
     if bStr == "" {
-        return a
+        return aStr
     }
 
     let a_end_str = aStr[aStr.index(aStr.endIndex, offsetBy: -1)]

@@ -1,7 +1,7 @@
 import Foundation
 
-let a = "11"
-let b = "10"
+let a = "1011"
+let b = "1010"
 
 print(addBinary(a, b))
 
