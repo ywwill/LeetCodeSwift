@@ -17,6 +17,7 @@
 		0434A5FD2772BAF2004CFB9C /* MaxSubArray_053.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0434A5FC2772BAF2004CFB9C /* MaxSubArray_053.swift */; };
 		0434A5FF2772BF48004CFB9C /* PlusOne_066.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0434A5FE2772BF48004CFB9C /* PlusOne_066.swift */; };
 		04404DF02774134500356F3A /* AddBinary_067.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04404DEF2774134500356F3A /* AddBinary_067.swift */; };
+		04639325277565DC0093DB6A /* MySqrt_069.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04639324277565DC0093DB6A /* MySqrt_069.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -43,6 +44,7 @@
 		0434A5FC2772BAF2004CFB9C /* MaxSubArray_053.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaxSubArray_053.swift; sourceTree = "<group>"; };
 		0434A5FE2772BF48004CFB9C /* PlusOne_066.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlusOne_066.swift; sourceTree = "<group>"; };
 		04404DEF2774134500356F3A /* AddBinary_067.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddBinary_067.swift; sourceTree = "<group>"; };
+		04639324277565DC0093DB6A /* MySqrt_069.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MySqrt_069.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -93,6 +95,7 @@
 				0434A5FC2772BAF2004CFB9C /* MaxSubArray_053.swift */,
 				0434A5FE2772BF48004CFB9C /* PlusOne_066.swift */,
 				04404DEF2774134500356F3A /* AddBinary_067.swift */,
+				04639324277565DC0093DB6A /* MySqrt_069.swift */,
 			);
 			path = Easy;
 			sourceTree = "<group>";
@@ -156,6 +159,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				040FBB2D27716CB600D92084 /* Remove_Element_027.swift in Sources */,
+				04639325277565DC0093DB6A /* MySqrt_069.swift in Sources */,
 				040FBB252771622500D92084 /* TwoSum_002.swift in Sources */,
 				04404DF02774134500356F3A /* AddBinary_067.swift in Sources */,
 				040FBB29277163BB00D92084 /* PalindromeNumber_009.swift in Sources */,
