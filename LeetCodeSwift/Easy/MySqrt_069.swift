@@ -1,10 +1,3 @@
-//
-//  MySqrt_069.swift
-//  LeetCodeSwift
-//
-//  Created by edy on 2021/12/24.
-//
-
 import Foundation
 
 // 69. Sqrt(x) 非负整数 x ，计算并返回 x 的 算术平方根
