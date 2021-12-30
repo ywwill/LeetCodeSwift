@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		040C899C277D45AC00376346 /* PascalsTriangle_118.swift in Sources */ = {isa = PBXBuildFile; fileRef = 040C899B277D45AC00376346 /* PascalsTriangle_118.swift */; };
 		040FBB1D2771620900D92084 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 040FBB1C2771620900D92084 /* main.swift */; };
 		040FBB252771622500D92084 /* TwoSum_002.swift in Sources */ = {isa = PBXBuildFile; fileRef = 040FBB242771622500D92084 /* TwoSum_002.swift */; };
 		040FBB272771633B00D92084 /* ReverseInteger_007.swift in Sources */ = {isa = PBXBuildFile; fileRef = 040FBB262771633B00D92084 /* ReverseInteger_007.swift */; };
@@ -34,6 +35,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		040C899B277D45AC00376346 /* PascalsTriangle_118.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PascalsTriangle_118.swift; sourceTree = "<group>"; };
 		040FBB192771620900D92084 /* LeetCodeSwift */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LeetCodeSwift; sourceTree = BUILT_PRODUCTS_DIR; };
 		040FBB1C2771620900D92084 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		040FBB242771622500D92084 /* TwoSum_002.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TwoSum_002.swift; sourceTree = "<group>"; };
@@ -99,6 +101,7 @@
 				04404DEF2774134500356F3A /* AddBinary_067.swift */,
 				04639324277565DC0093DB6A /* MySqrt_069.swift */,
 				046ED8B1277BF63500F542CE /* MergeSortArray_088.swift */,
+				040C899B277D45AC00376346 /* PascalsTriangle_118.swift */,
 			);
 			path = Easy;
 			sourceTree = "<group>";
@@ -167,6 +170,7 @@
 				040FBB252771622500D92084 /* TwoSum_002.swift in Sources */,
 				04404DF02774134500356F3A /* AddBinary_067.swift in Sources */,
 				040FBB29277163BB00D92084 /* PalindromeNumber_009.swift in Sources */,
+				040C899C277D45AC00376346 /* PascalsTriangle_118.swift in Sources */,
 				040FBB2B2771640E00D92084 /* Remove_Duplicates_Sorted_Array_026.swift in Sources */,
 				0434A5FF2772BF48004CFB9C /* PlusOne_066.swift in Sources */,
 				040FBB1D2771620900D92084 /* main.swift in Sources */,
