@@ -2,7 +2,7 @@ import Foundation
 
 // 118. 杨辉三角
 // 思路：每一行首位和末尾 + 元素 0，然后两个数组相加得到下一列
-func generate(_ numRows: Int) -> [[Int]] {
+func generatePascalsTriangle118(_ numRows: Int) -> [[Int]] {
 
     if numRows == 0 {
         return []
