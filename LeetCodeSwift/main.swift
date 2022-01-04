@@ -1,5 +1,5 @@
 import Foundation
 
-let numRows = 3
+let nums = [1,1,2,2,3]
 
-print(getPascalsTriangleRow(numRows))
+print(singleNumber(nums))
