@@ -1,6 +1,6 @@
 import Foundation
 
-var nums = [1,2,3,4,5,6,7]
+var nums = [1,2,3,4]
 
-rotateArray(&nums, 3)
+rotateArray(&nums, 6)
 print(nums)
