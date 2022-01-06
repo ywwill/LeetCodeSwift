@@ -1,6 +1,6 @@
 import Foundation
 
-var nums = [1,2,3,4]
+var nums = [6,2,9,3]
 
-rotateArray(&nums, 6)
-print(nums)
+print(containsDuplicate(nums))
+print(containsDuplicate2(nums))
