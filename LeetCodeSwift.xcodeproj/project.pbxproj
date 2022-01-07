@@ -25,6 +25,7 @@
 		045831742783DA5D0014CF88 /* SingleNumber_136.swift in Sources */ = {isa = PBXBuildFile; fileRef = 045831732783DA5D0014CF88 /* SingleNumber_136.swift */; };
 		04639325277565DC0093DB6A /* MySqrt_069.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04639324277565DC0093DB6A /* MySqrt_069.swift */; };
 		046ED8B2277BF63500F542CE /* MergeSortArray_088.swift in Sources */ = {isa = PBXBuildFile; fileRef = 046ED8B1277BF63500F542CE /* MergeSortArray_088.swift */; };
+		04A375B02787D1EE004C76A3 /* ContainsDuplicate_219.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04A375AF2787D1EE004C76A3 /* ContainsDuplicate_219.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -59,6 +60,7 @@
 		045831732783DA5D0014CF88 /* SingleNumber_136.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SingleNumber_136.swift; sourceTree = "<group>"; };
 		04639324277565DC0093DB6A /* MySqrt_069.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MySqrt_069.swift; sourceTree = "<group>"; };
 		046ED8B1277BF63500F542CE /* MergeSortArray_088.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MergeSortArray_088.swift; sourceTree = "<group>"; };
+		04A375AF2787D1EE004C76A3 /* ContainsDuplicate_219.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContainsDuplicate_219.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -117,6 +119,7 @@
 				043B64592785319900566EAC /* MajorityElement_169.swift */,
 				043B645B2785329400566EAC /* RotateArray_189.swift */,
 				04441906278682BB0071133F /* ContainsDuplicate_217.swift */,
+				04A375AF2787D1EE004C76A3 /* ContainsDuplicate_219.swift */,
 			);
 			path = Easy;
 			sourceTree = "<group>";
@@ -193,6 +196,7 @@
 				040FBB1D2771620900D92084 /* main.swift in Sources */,
 				043B645A2785319900566EAC /* MajorityElement_169.swift in Sources */,
 				04441907278682BB0071133F /* ContainsDuplicate_217.swift in Sources */,
+				04A375B02787D1EE004C76A3 /* ContainsDuplicate_219.swift in Sources */,
 				043B645C2785329400566EAC /* RotateArray_189.swift in Sources */,
 				040FBB272771633B00D92084 /* ReverseInteger_007.swift in Sources */,
 				0434A5FD2772BAF2004CFB9C /* MaxSubArray_053.swift in Sources */,
