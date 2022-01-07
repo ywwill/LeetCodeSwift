@@ -16,3 +16,6 @@ func containsNearbyDuplicate(_ nums: [Int], _ k: Int) -> Bool {
     }
     return false
 }
+
+//var nums = [1,2,3,1]
+//print(containsNearbyDuplicate(nums, 3))
