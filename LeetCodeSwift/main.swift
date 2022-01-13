@@ -1,3 +1,3 @@
 import Foundation
 
-print(intToRoman(30))
+print(romanToInt("XIV"))
