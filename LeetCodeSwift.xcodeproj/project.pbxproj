@@ -30,6 +30,7 @@
 		04639325277565DC0093DB6A /* MySqrt_069.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04639324277565DC0093DB6A /* MySqrt_069.swift */; };
 		046ED8B2277BF63500F542CE /* MergeSortArray_088.swift in Sources */ = {isa = PBXBuildFile; fileRef = 046ED8B1277BF63500F542CE /* MergeSortArray_088.swift */; };
 		04A375B02787D1EE004C76A3 /* ContainsDuplicate_219.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04A375AF2787D1EE004C76A3 /* ContainsDuplicate_219.swift */; };
+		04CDF64727A0E79400184E5D /* Climbing_Stairs_070.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04CDF64627A0E79400184E5D /* Climbing_Stairs_070.swift */; };
 		04E3EF1927950588003B60EC /* Valid_Parentheses_020.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04E3EF1827950588003B60EC /* Valid_Parentheses_020.swift */; };
 /* End PBXBuildFile section */
 
@@ -70,6 +71,7 @@
 		04639324277565DC0093DB6A /* MySqrt_069.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MySqrt_069.swift; sourceTree = "<group>"; };
 		046ED8B1277BF63500F542CE /* MergeSortArray_088.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MergeSortArray_088.swift; sourceTree = "<group>"; };
 		04A375AF2787D1EE004C76A3 /* ContainsDuplicate_219.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContainsDuplicate_219.swift; sourceTree = "<group>"; };
+		04CDF64627A0E79400184E5D /* Climbing_Stairs_070.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Climbing_Stairs_070.swift; sourceTree = "<group>"; };
 		04E3EF1827950588003B60EC /* Valid_Parentheses_020.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Valid_Parentheses_020.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -127,6 +129,7 @@
 				0434A5FE2772BF48004CFB9C /* PlusOne_066.swift */,
 				04404DEF2774134500356F3A /* AddBinary_067.swift */,
 				04639324277565DC0093DB6A /* MySqrt_069.swift */,
+				04CDF64627A0E79400184E5D /* Climbing_Stairs_070.swift */,
 				046ED8B1277BF63500F542CE /* MergeSortArray_088.swift */,
 				040C899B277D45AC00376346 /* PascalsTriangle_118.swift */,
 				044767C4277E952700A2C92C /* PascalsTriangle_119.swift */,
@@ -201,6 +204,7 @@
 				046ED8B2277BF63500F542CE /* MergeSortArray_088.swift in Sources */,
 				04639325277565DC0093DB6A /* MySqrt_069.swift in Sources */,
 				044767C5277E952700A2C92C /* PascalsTriangle_119.swift in Sources */,
+				04CDF64727A0E79400184E5D /* Climbing_Stairs_070.swift in Sources */,
 				040FBB252771622500D92084 /* TwoSum_001.swift in Sources */,
 				043FA6C92798FCBE00790539 /* Valid_Sudoku_036.swift in Sources */,
 				04404DF02774134500356F3A /* AddBinary_067.swift in Sources */,
